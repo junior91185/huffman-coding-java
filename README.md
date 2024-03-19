@@ -2,6 +2,8 @@
 
 Osa Idahor
 
+oidahor@u.rochester.edu
+
 ## Overview
 This Java application delivers a practical implementation of the Huffman coding algorithm, a widely recognized method for lossless data compression. By dynamically assigning shorter binary codes to more frequently occurring characters, Huffman coding efficiently reduces file size without losing any original data.
 
